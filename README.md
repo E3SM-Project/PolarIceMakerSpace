@@ -1,0 +1,1 @@
+This repository is for Polar+Ice groups, and anyone else in E3SM working with cryospheric aspects of the model,to share Python scripts and snippets informally for papers, zppy tools, and other utilities. 
